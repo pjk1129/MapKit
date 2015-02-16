@@ -1,0 +1,10 @@
+PODS:
+  - SOMotionDetector (1.0.1)
+
+DEPENDENCIES:
+  - SOMotionDetector (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  SOMotionDetector: c9b0f935cfda1a1e7a7b40ecd73dc44c595de6e7
+
+COCOAPODS: 0.35.0
